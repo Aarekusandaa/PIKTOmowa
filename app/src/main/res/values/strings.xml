@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PIKTOmowa</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="category">Wybór kategorii</string>
+    <string name="usun">Usuń</string>
+    <string name="add_WlasnePikto">Dodaj</string>
+    <string name="add_name_hint">Nazwa piktogramu</string>
+    <string name="menu_add_item">AddItem</string>
+    <string name="menu_paint_icon">PaintItem</string>
+</resources>
